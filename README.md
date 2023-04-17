@@ -2,7 +2,7 @@
 
 Projeto criado seguindo instruções do curso de ReactJS da Rocketseat (Trilha 2022).
 
-Para documentar o Design System foi utilizado o Storybook integral.
+Para documentar o Design System foi utilizado o Storybook integral
 
 
 ## Instalção de Dependencias
